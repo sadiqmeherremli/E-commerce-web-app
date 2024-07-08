@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\views\\shop\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\views\\shop\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\views\\cart\\shopcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\views\\cart\\shopcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\viewcompanents\\cartvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\viewcompanents\\cartvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Migrations\\20240703230419_createhjjhad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineFashionStore\\Migrations\\20240703230419_createhjjhad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\views\\shop\\shopcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\views\\shop\\shopcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\areas\\admin\\views\\user\\getuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\areas\\admin\\views\\user\\getuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\extensions\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\extensions\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\onlinefashionstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\onlinefashionstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|c:\\users\\user\\desktop\\onlinefashionstore-master\\onlinefashionstore\\migrations\\20240703230539_dsad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B821AA0F-DEA7-4CCB-8722-0B5DFEB07E70}|OnlineFashionStore\\OnlineFashionStore.csproj|solutionrelative:onlinefashionstore\\migrations\\20240703230539_dsad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Views\\Shop\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Views\\Shop\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Views\\Shop\\ProductDetails.cshtml",
+              "RelativeToolTip": "OnlineFashionStore\\Views\\Shop\\ProductDetails.cshtml",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAewGcAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T22:30:28.194Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlineFashionStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T01:43:42.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartVC.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\ViewCompanents\\CartVC.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\ViewCompanents\\CartVC.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\ViewCompanents\\CartVC.cs",
+              "RelativeToolTip": "OnlineFashionStore\\ViewCompanents\\CartVC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:44:24.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Views\\Cart\\ShopCart.cshtml",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Views\\Cart\\ShopCart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Views\\Cart\\ShopCart.cshtml",
+              "RelativeToolTip": "OnlineFashionStore\\Views\\Cart\\ShopCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T00:01:01.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Extensions\\FileExtensions.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Extensions\\FileExtensions.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Extensions\\FileExtensions.cs",
+              "RelativeToolTip": "OnlineFashionStore\\Extensions\\FileExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:24:24.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240703230539_dsad.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Migrations\\20240703230539_dsad.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Migrations\\20240703230539_dsad.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Migrations\\20240703230539_dsad.cs",
+              "RelativeToolTip": "OnlineFashionStore\\Migrations\\20240703230539_dsad.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:05:39.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240703230419_createhjjhad.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Migrations\\20240703230419_createhjjhad.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Migrations\\20240703230419_createhjjhad.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Migrations\\20240703230419_createhjjhad.cs",
+              "RelativeToolTip": "OnlineFashionStore\\Migrations\\20240703230419_createhjjhad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:04:19.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Views\\Shop\\ShopCart.cshtml",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Views\\Shop\\ShopCart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Views\\Shop\\ShopCart.cshtml",
+              "RelativeToolTip": "OnlineFashionStore\\Views\\Shop\\ShopCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T22:28:11.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlineFashionStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:27:40.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "OnlineFashionStore\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T22:25:12.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "OnlineFashionStore\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwEUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:14:27.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Views\\User\\GetUser.cshtml",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Areas\\Admin\\Views\\User\\GetUser.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Views\\User\\GetUser.cshtml",
+              "RelativeToolTip": "OnlineFashionStore\\Areas\\Admin\\Views\\User\\GetUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T22:13:56.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlineFashionStore\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T22:04:49.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineFashionStore\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:04:20.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ColorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "RelativeToolTip": "OnlineFashionStore\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:03:12.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "OnlineFashionStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAswFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:03:09.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "OnlineFashionStore\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAD4vxAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:03:06.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "OnlineFashionStore\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAgwJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:52:17.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Program.cs",
+              "RelativeToolTip": "OnlineFashionStore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:44:35.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHQUAAAAAAAAAAAjwIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-03T20:30:49.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Controllers\\CartController.cs",
+              "RelativeToolTip": "OnlineFashionStore\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:29:49.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Extensions\\EmailSender.cs",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\Extensions\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\Extensions\\EmailSender.cs",
+              "RelativeToolTip": "OnlineFashionStore\\Extensions\\EmailSender.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:27:48.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OnlineFashionStore.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\OnlineFashionStore.csproj",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\OnlineFashionStore.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\OnlineFashionStore.csproj",
+              "RelativeToolTip": "OnlineFashionStore\\OnlineFashionStore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T19:48:20.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineFashionStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\appsettings.json",
+              "RelativeToolTip": "OnlineFashionStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T12:06:57.878Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2945 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\OnlineFashionStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineFashionStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\README.md",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\css\\cs-skin-elastic.css",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\css\\cs-skin-elastic.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\css\\lib\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\css\\lib\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\css\\lib\\chosen\\chosen.css",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\css\\lib\\chosen\\chosen.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\css\\lib\\chosen\\chosen.min.css",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\css\\lib\\chosen\\chosen.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\css\\lib\\vector-map\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\css\\lib\\vector-map\\jqvmap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\fonts\\icomoon\\index.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\fonts\\icomoon\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\init\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\init\\chartjs-init.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\init\\datatables-init.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\init\\datatables-init.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\init\\flot-chart-init.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\init\\flot-chart-init.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\init\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\init\\fullcalendar-init.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\init\\gmap-init.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\init\\gmap-init.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\init\\peitychart-init.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\init\\peitychart-init.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\init\\vector-init.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\init\\vector-init.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\init\\weather-init.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\init\\weather-init.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\chosen\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\chosen\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\chosen\\chosen.proto.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\chosen\\chosen.proto.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\chosen\\chosen.proto.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\chosen\\chosen.proto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\data-table\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\data-table\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\data-table\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\data-table\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\data-table\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\data-table\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\data-table\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\data-table\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\data-table\\datatables.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\data-table\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\data-table\\jquery-1.12.4.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\data-table\\jquery-1.12.4.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\data-table\\jszip.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\data-table\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\data-table\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\data-table\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\data-table\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\data-table\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\gmap\\gmapApi.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\gmap\\gmapApi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\gmap\\gmaps.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\gmap\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\lib\\gmap\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\lib\\gmap\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\js\\widgets.js",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\js\\widgets.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\scss\\style.css",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\scss\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\scss\\style.css.map",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\scss\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\charts-chartjs.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\charts-chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\charts-flot.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\charts-flot.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\charts-peity.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\charts-peity.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\font-fontawesome.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\font-fontawesome.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\font-themify.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\font-themify.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\forms-advanced.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\forms-advanced.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\forms-basic.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\forms-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\.gitignore",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\avatar\\4.jpg",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\avatar\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\avatar\\5.jpg",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\avatar\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\avatar\\6.jpg",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\avatar\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\avatar\\64-1.jpg",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\avatar\\64-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\avatar\\64-2.jpg",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\avatar\\64-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\logo.png",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\logo.psd",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\logo.psd"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\index.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\maps-gmap.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\maps-gmap.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\maps-vector.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\maps-vector.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\page-login.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\page-login.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\page-register.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\page-register.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\pages-forget.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\pages-forget.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\tables-basic.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\tables-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\tables-data.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\tables-data.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\ui-alerts.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\ui-alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\ui-badges.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\ui-badges.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\ui-buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\ui-cards.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\ui-cards.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\ui-grids.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\ui-grids.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\ui-modals.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\ui-modals.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\ui-progressbar.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\ui-progressbar.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\ui-switches.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\ui-switches.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\ui-tabs.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\ui-tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\ui-typgraphy.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\ui-typgraphy.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\ElaAdmin-master\\widgets.html",
+      "PackagePath": "staticwebassets\\ElaAdmin-master\\widgets.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\css\\main.css",
+      "PackagePath": "staticwebassets\\Login_v18\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\css\\util.css",
+      "PackagePath": "staticwebassets\\Login_v18\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v18\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\Login_v18\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\Login_v18\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\index.html",
+      "PackagePath": "staticwebassets\\Login_v18\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\js\\main.js",
+      "PackagePath": "staticwebassets\\Login_v18\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Login_v18\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Login_v18\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\404.html",
+      "PackagePath": "staticwebassets\\Site\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\about.html",
+      "PackagePath": "staticwebassets\\Site\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\account_dashboard.html",
+      "PackagePath": "staticwebassets\\Site\\account_dashboard.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\account_edit.html",
+      "PackagePath": "staticwebassets\\Site\\account_edit.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\account_edit_address.html",
+      "PackagePath": "staticwebassets\\Site\\account_edit_address.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\account_orders.html",
+      "PackagePath": "staticwebassets\\Site\\account_orders.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\account_wishlist.html",
+      "PackagePath": "staticwebassets\\Site\\account_wishlist.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\blog_list2.html",
+      "PackagePath": "staticwebassets\\Site\\blog_list2.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\blog_single.html",
+      "PackagePath": "staticwebassets\\Site\\blog_single.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\coming_soon.html",
+      "PackagePath": "staticwebassets\\Site\\coming_soon.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\contact.html",
+      "PackagePath": "staticwebassets\\Site\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\css\\plugins\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\css\\plugins\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\css\\plugins\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\css\\plugins\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\css\\plugins\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\css\\plugins\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\Flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\css\\plugins\\flaticon.css",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\css\\plugins\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\css\\plugins\\swiper.min.css",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\css\\style.css",
+      "PackagePath": "staticwebassets\\Site\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\faq.html",
+      "PackagePath": "staticwebassets\\Site\\faq.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\fonts\\SofiaProBold.woff",
+      "PackagePath": "staticwebassets\\Site\\fonts\\SofiaProBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\about\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\about\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\banner_1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\banner_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\banner_2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\banner_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\07406e48-539d-4ab4-99e2-0577ad989f63blog-9.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\07406e48-539d-4ab4-99e2-0577ad989f63blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\28df5b2b-0d6a-4231-957c-540ec5f7ce9fHD-wallpaper-cities-new-york-building-city-skyscraper-sunset-usa.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\28df5b2b-0d6a-4231-957c-540ec5f7ce9fHD-wallpaper-cities-new-york-building-city-skyscraper-sunset-usa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\72369842-bcb3-47a2-98fe-c72a721cbde6balkis-anton-n-v2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\72369842-bcb3-47a2-98fe-c72a721cbde6balkis-anton-n-v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-11.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-12.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-13.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-14.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-15.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-16.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\d1221e20-c45e-4d1a-ab47-0d78f0de266ebalkis-anton-n-v2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\d1221e20-c45e-4d1a-ab47-0d78f0de266ebalkis-anton-n-v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog\\daa1b15e-2424-42db-8deb-e8d70f9d5717Login.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog\\daa1b15e-2424-42db-8deb-e8d70f9d5717Login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\blog_title_bg.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\blog_title_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\brands\\brand1.png",
+      "PackagePath": "staticwebassets\\Site\\images\\brands\\brand1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\brands\\brand2.png",
+      "PackagePath": "staticwebassets\\Site\\images\\brands\\brand2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\brands\\brand3.png",
+      "PackagePath": "staticwebassets\\Site\\images\\brands\\brand3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\brands\\brand4.png",
+      "PackagePath": "staticwebassets\\Site\\images\\brands\\brand4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\brands\\brand5.png",
+      "PackagePath": "staticwebassets\\Site\\images\\brands\\brand5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\brands\\brand6.png",
+      "PackagePath": "staticwebassets\\Site\\images\\brands\\brand6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\brands\\brand7.png",
+      "PackagePath": "staticwebassets\\Site\\images\\brands\\brand7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\cart-item-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\cart-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\cart-item-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\cart-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\cart-item-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\cart-item-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\collection_grid_1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\collection_grid_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\collection_grid_2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\collection_grid_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\collection_grid_3.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\collection_grid_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\deal_timer_bg.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\deal_timer_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\home\\demo10\\slider_bg.png",
+      "PackagePath": "staticwebassets\\Site\\images\\home\\demo10\\slider_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\home\\demo1\\product-0-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\home\\demo1\\product-0-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\home\\demo1\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\home\\demo1\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\home\\demo1\\product-2-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\home\\demo1\\product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\home\\demo1\\product-3-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\home\\demo1\\product-3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\home\\demo3\\slider_bg.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\home\\demo3\\slider_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\instagram\\insta1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\instagram\\insta1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\instagram\\insta10.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\instagram\\insta10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\instagram\\insta11.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\instagram\\insta11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\instagram\\insta12.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\instagram\\insta12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\instagram\\insta2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\instagram\\insta2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\instagram\\insta3.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\instagram\\insta3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\instagram\\insta4.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\instagram\\insta4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\instagram\\insta5.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\instagram\\insta5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\instagram\\insta6.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\instagram\\insta6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\instagram\\insta7.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\instagram\\insta7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\instagram\\insta8.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\instagram\\insta8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\instagram\\insta9.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\instagram\\insta9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\Site\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Site\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\lookbook\\lookbook-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\lookbook\\lookbook-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\lookbook\\lookbook-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\lookbook\\lookbook-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\lookbook\\lookbook-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\lookbook\\lookbook-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\lookbook\\lookbook-4.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\lookbook\\lookbook-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\lookbook\\lookbook-5.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\lookbook\\lookbook-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\lookbook\\lookbook-6.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\lookbook\\lookbook-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\mega-menu-item.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\mega-menu-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\nav-bg.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\nav-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\newsletter-popup.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\newsletter-popup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\pattern_bg.png",
+      "PackagePath": "staticwebassets\\Site\\images\\pattern_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\payment-options.png",
+      "PackagePath": "staticwebassets\\Site\\images\\payment-options.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\0132b766-4242-4455-b605-9d7a29770b7dimages.jpeg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\0132b766-4242-4455-b605-9d7a29770b7dimages.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\13acd98b-57e3-48f0-ac08-9ffac2bed92dimages.jfif",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\13acd98b-57e3-48f0-ac08-9ffac2bed92dimages.jfif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\157ccb6e-ca19-41eb-a4b2-de566ba1631c1_org_zoom.webp",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\157ccb6e-ca19-41eb-a4b2-de566ba1631c1_org_zoom.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\174243e8-8b55-4527-843b-c49883f92e94product_14.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\174243e8-8b55-4527-843b-c49883f92e94product_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\1f21640f-18a3-4c23-8fcb-ff3a7d7282b3product_10-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\1f21640f-18a3-4c23-8fcb-ff3a7d7282b3product_10-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\2025a80f-a4e9-48f7-8481-7878f9b612141_org_zoom.webp",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\2025a80f-a4e9-48f7-8481-7878f9b612141_org_zoom.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\312b4a69-3a32-4e0f-8568-51ffffc3c0a5product_10-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\312b4a69-3a32-4e0f-8568-51ffffc3c0a5product_10-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\3a890ed4-2a85-4b78-b199-1e859d5ae24c1_org_zoom.webp",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\3a890ed4-2a85-4b78-b199-1e859d5ae24c1_org_zoom.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\3ac79334-d382-4ecd-9790-5c92d50bc4f6product_0-9.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\3ac79334-d382-4ecd-9790-5c92d50bc4f6product_0-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\505c1390-9b01-4927-ad93-f05c20f311531_org_zoom.webp",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\505c1390-9b01-4927-ad93-f05c20f311531_org_zoom.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\a815a735-faa4-4b87-9b79-702444a2a5a41_org_zoom.webp",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\a815a735-faa4-4b87-9b79-702444a2a5a41_org_zoom.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\d1464f08-f896-46ac-8df0-eec0fe805397download.jfif",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\d1464f08-f896-46ac-8df0-eec0fe805397download.jfif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\fb21043c-67f3-4ef5-bfc0-264d8fb27b761_org_zoom.webp",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\fb21043c-67f3-4ef5-bfc0-264d8fb27b761_org_zoom.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-17-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-17-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-17-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-17-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-18-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-18-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-19-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-19-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-19-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-19-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-19-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-19-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-20-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-20-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-20-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-20-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-21-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-21-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-21-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-21-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-22-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-22-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-22-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-22-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-22-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-22-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-23-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-23-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-24-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-24-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-25-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-25-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-26-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-26-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-26-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-26-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-27-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-27-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-27-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-27-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-28-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-28-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-28-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-28-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-29-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-29-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-29-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-29-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-30-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-30-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-31-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-31-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-32-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-32-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-33-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-33-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-35-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-35-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-36-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-36-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-37-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-37-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-38-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-38-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-39-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-39-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-40-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-40-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-41-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-41-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product-42-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product-42-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0-10.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0-11.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0-12.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0-13.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0-4.png",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0-4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0-5.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0-6.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0-7.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0-8.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0-9.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_0.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_1-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_10-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_10-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_10.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_11-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_11-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_11.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_12-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_12-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_12.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_13-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_13-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_13.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_14-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_14-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_14.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_15-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_15-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_15.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_16-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_16-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_16.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_2-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_3-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_3.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_4-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_4.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_5-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_5.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_6-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_6.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_7-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_7.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_8-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_8-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_8.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_9-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_9-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\product_9.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\product_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\quickview_1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\quickview_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\quickview_2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\quickview_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\quickview_3.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\quickview_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\quickview_4.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\quickview_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\swatch_0.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\swatch_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\swatch_1.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\swatch_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\products\\swatch_2.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\products\\swatch_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\shop\\category-item1.png",
+      "PackagePath": "staticwebassets\\Site\\images\\shop\\category-item1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\shop\\category-item2.png",
+      "PackagePath": "staticwebassets\\Site\\images\\shop\\category-item2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\shop\\category-item3.png",
+      "PackagePath": "staticwebassets\\Site\\images\\shop\\category-item3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\shop\\category-item4.png",
+      "PackagePath": "staticwebassets\\Site\\images\\shop\\category-item4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\shop\\category-item5.png",
+      "PackagePath": "staticwebassets\\Site\\images\\shop\\category-item5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\shop\\category-item6.png",
+      "PackagePath": "staticwebassets\\Site\\images\\shop\\category-item6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\shop\\category-item7.png",
+      "PackagePath": "staticwebassets\\Site\\images\\shop\\category-item7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\shop\\category-item8.png",
+      "PackagePath": "staticwebassets\\Site\\images\\shop\\category-item8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\shop\\shop_banner3.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\shop\\shop_banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\shop\\shop_banner6.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\shop\\shop_banner6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\shop\\shop_banner8.png",
+      "PackagePath": "staticwebassets\\Site\\images\\shop\\shop_banner8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\shop\\shop_banner_2.png",
+      "PackagePath": "staticwebassets\\Site\\images\\shop\\shop_banner_2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\shop\\shop_banner_character1.png",
+      "PackagePath": "staticwebassets\\Site\\images\\shop\\shop_banner_character1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\size-guide.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\size-guide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\slideshow-character1.png",
+      "PackagePath": "staticwebassets\\Site\\images\\slideshow-character1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\slideshow-character2.png",
+      "PackagePath": "staticwebassets\\Site\\images\\slideshow-character2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\images\\slideshow-pattern.png",
+      "PackagePath": "staticwebassets\\Site\\images\\slideshow-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\index.html",
+      "PackagePath": "staticwebassets\\Site\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\js\\details-disclosure.js",
+      "PackagePath": "staticwebassets\\Site\\js\\details-disclosure.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\js\\googlemap-setting.js",
+      "PackagePath": "staticwebassets\\Site\\js\\googlemap-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\js\\plugins\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\js\\plugins\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\js\\plugins\\countdown.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\js\\plugins\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\js\\plugins\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\js\\plugins\\swiper.min.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\js\\share.js",
+      "PackagePath": "staticwebassets\\Site\\js\\share.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\js\\theme.js",
+      "PackagePath": "staticwebassets\\Site\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\login_register.html",
+      "PackagePath": "staticwebassets\\Site\\login_register.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\product2_variable.html",
+      "PackagePath": "staticwebassets\\Site\\product2_variable.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\product6_outofstock.html",
+      "PackagePath": "staticwebassets\\Site\\product6_outofstock.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\reset_password.html",
+      "PackagePath": "staticwebassets\\Site\\reset_password.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\shop12.html",
+      "PackagePath": "staticwebassets\\Site\\shop12.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\shop3.html",
+      "PackagePath": "staticwebassets\\Site\\shop3.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\shop_cart.html",
+      "PackagePath": "staticwebassets\\Site\\shop_cart.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\shop_checkout.html",
+      "PackagePath": "staticwebassets\\Site\\shop_checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\Site\\shop_order_complete.html",
+      "PackagePath": "staticwebassets\\Site\\shop_order_complete.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\05f9b252-d812-4477-b7fa-077133430869photo_2023-10-20_18-08-29.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\05f9b252-d812-4477-b7fa-077133430869photo_2023-10-20_18-08-29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\0b4277f8-3d32-44aa-b985-02691aa048baEkran görüntüsü 2024-07-04 053138.png",
+      "PackagePath": "staticwebassets\\images\\products\\0b4277f8-3d32-44aa-b985-02691aa048baEkran görüntüsü 2024-07-04 053138.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\0e83e69d-3e24-4038-9866-bfd76e8c21eelookbook-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0e83e69d-3e24-4038-9866-bfd76e8c21eelookbook-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\14ca2348-909e-4219-bc4c-f7a8ca30a4d1Ekran görüntüsü 2024-07-04 054049.png",
+      "PackagePath": "staticwebassets\\images\\products\\14ca2348-909e-4219-bc4c-f7a8ca30a4d1Ekran görüntüsü 2024-07-04 054049.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\18dcbc0c-6c45-4ade-87ba-f1af60bd2b9dproduct_0-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\18dcbc0c-6c45-4ade-87ba-f1af60bd2b9dproduct_0-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\201a2a2b-a3d1-44c2-9b17-1fdfab3a3d8fEkran görüntüsü 2024-07-04 052027.png",
+      "PackagePath": "staticwebassets\\images\\products\\201a2a2b-a3d1-44c2-9b17-1fdfab3a3d8fEkran görüntüsü 2024-07-04 052027.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\2133a2bf-7787-4f51-a98a-763b4e197b47images.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\2133a2bf-7787-4f51-a98a-763b4e197b47images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\2b4b10d8-0eeb-43d4-95df-93dd123e7d4fEkran görüntüsü 2024-07-04 051958.png",
+      "PackagePath": "staticwebassets\\images\\products\\2b4b10d8-0eeb-43d4-95df-93dd123e7d4fEkran görüntüsü 2024-07-04 051958.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\2bd3b03a-88d1-4f16-a79b-1b8839aaaf7fproduct_0-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2bd3b03a-88d1-4f16-a79b-1b8839aaaf7fproduct_0-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\2e039e4f-0667-443e-8e83-e60bb920fcafEkran görüntüsü 2024-07-04 054107.png",
+      "PackagePath": "staticwebassets\\images\\products\\2e039e4f-0667-443e-8e83-e60bb920fcafEkran görüntüsü 2024-07-04 054107.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\2e21b385-2a8b-4b4e-a262-8120236b9612product_0-7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2e21b385-2a8b-4b4e-a262-8120236b9612product_0-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\2e5c9dfc-aef8-4c43-8761-3896844c52cdEkran görüntüsü 2024-07-04 052603.png",
+      "PackagePath": "staticwebassets\\images\\products\\2e5c9dfc-aef8-4c43-8761-3896844c52cdEkran görüntüsü 2024-07-04 052603.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\30e465b6-cd01-4cb1-9f1d-0311f755caf0product_0-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\30e465b6-cd01-4cb1-9f1d-0311f755caf0product_0-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\31b5e7f7-34be-4342-950d-f9863c9a7c98Ekran görüntüsü 2024-07-04 053113.png",
+      "PackagePath": "staticwebassets\\images\\products\\31b5e7f7-34be-4342-950d-f9863c9a7c98Ekran görüntüsü 2024-07-04 053113.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\32dbbb76-1feb-4d3d-9cb7-c772168911beproduct_0-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\32dbbb76-1feb-4d3d-9cb7-c772168911beproduct_0-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\360300f9-9427-4b75-8093-a24f69794f62product_11-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\360300f9-9427-4b75-8093-a24f69794f62product_11-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\3cba229e-6c83-419d-8094-9bbd2f63b76cproduct_0-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3cba229e-6c83-419d-8094-9bbd2f63b76cproduct_0-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\416f6e77-1e64-440b-84a1-35544b4b5d9cimages.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\416f6e77-1e64-440b-84a1-35544b4b5d9cimages.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\42725874-ec05-4818-9cdf-9adb2b50758bcategory-item1.png",
+      "PackagePath": "staticwebassets\\images\\products\\42725874-ec05-4818-9cdf-9adb2b50758bcategory-item1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\45cf11cb-2cb3-491f-982d-df3a41aadb4fproduct_0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\45cf11cb-2cb3-491f-982d-df3a41aadb4fproduct_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\4a0a6a2f-0ee7-46ec-80fe-062d90932539product_2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\4a0a6a2f-0ee7-46ec-80fe-062d90932539product_2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\4d2ebd4a-7278-4894-af2b-1769d91a5d3dproduct_4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\4d2ebd4a-7278-4894-af2b-1769d91a5d3dproduct_4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\4e7f8673-52f2-4631-a59f-bc0629b6d0d2cart-item-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\4e7f8673-52f2-4631-a59f-bc0629b6d0d2cart-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\59850e4b-5b7a-4eed-8aba-3f2ac625942dproduct-30-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\59850e4b-5b7a-4eed-8aba-3f2ac625942dproduct-30-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\59e2e795-0043-439d-8bed-efd71a1229c0product_16-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\59e2e795-0043-439d-8bed-efd71a1229c0product_16-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\5a88cc7d-8204-4038-b450-870294139fbeEkran görüntüsü 2024-07-04 052633.png",
+      "PackagePath": "staticwebassets\\images\\products\\5a88cc7d-8204-4038-b450-870294139fbeEkran görüntüsü 2024-07-04 052633.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\5e8cc520-963b-4704-b5d4-0ba572acee67product_0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\5e8cc520-963b-4704-b5d4-0ba572acee67product_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\60760376-5e99-469b-874d-8430595769a8images.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\60760376-5e99-469b-874d-8430595769a8images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\61ad0e58-254f-49e8-828f-de05790b5180product_0-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\61ad0e58-254f-49e8-828f-de05790b5180product_0-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\6a8e0c92-836f-482a-a052-061f7a2f9682product_0-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6a8e0c92-836f-482a-a052-061f7a2f9682product_0-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\6de96fa5-fdf2-474c-9103-2205a90b0c72Personal-Brand.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6de96fa5-fdf2-474c-9103-2205a90b0c72Personal-Brand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\6fa128b4-4f0e-4436-a022-c6f35f25e916Layer_8.webp",
+      "PackagePath": "staticwebassets\\images\\products\\6fa128b4-4f0e-4436-a022-c6f35f25e916Layer_8.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\794a6d7b-8842-4d08-ac63-7afd89ae5b7fEkran görüntüsü 2024-07-04 053130.png",
+      "PackagePath": "staticwebassets\\images\\products\\794a6d7b-8842-4d08-ac63-7afd89ae5b7fEkran görüntüsü 2024-07-04 053130.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\79ff9519-3b36-4e66-ba45-7e04c95f5308product_0-8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\79ff9519-3b36-4e66-ba45-7e04c95f5308product_0-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\80c7a048-4b17-4dde-b5cb-a4be393d2f9abanner_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\80c7a048-4b17-4dde-b5cb-a4be393d2f9abanner_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\8682a3d9-5728-42df-91e3-67dfa897a36cEkran görüntüsü 2024-07-04 051357.png",
+      "PackagePath": "staticwebassets\\images\\products\\8682a3d9-5728-42df-91e3-67dfa897a36cEkran görüntüsü 2024-07-04 051357.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\87d24135-818d-4ce1-b6dd-00f79bf010cfproduct_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\87d24135-818d-4ce1-b6dd-00f79bf010cfproduct_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\8b833dc8-b5e2-46b0-b53c-bf7eeac13e6eproduct_0-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8b833dc8-b5e2-46b0-b53c-bf7eeac13e6eproduct_0-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\8d8d46c6-6631-41dd-80f5-4d2e04a24a58product_0-6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8d8d46c6-6631-41dd-80f5-4d2e04a24a58product_0-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\9d465f8a-c483-438c-81fa-9ebc5d53b91fasapes.png",
+      "PackagePath": "staticwebassets\\images\\products\\9d465f8a-c483-438c-81fa-9ebc5d53b91fasapes.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\9d820614-9e5b-442b-acd6-c85b53e322edLayer_8.webp",
+      "PackagePath": "staticwebassets\\images\\products\\9d820614-9e5b-442b-acd6-c85b53e322edLayer_8.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\9dbab3a8-2388-438b-958c-321ccc80577eproduct_0-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9dbab3a8-2388-438b-958c-321ccc80577eproduct_0-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\a0fe3934-0e85-46ae-b6e7-61a7a43ec12fproduct_0-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\a0fe3934-0e85-46ae-b6e7-61a7a43ec12fproduct_0-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\a981493f-9177-4c95-aa36-ae208a3bb900category-item6.png",
+      "PackagePath": "staticwebassets\\images\\products\\a981493f-9177-4c95-aa36-ae208a3bb900category-item6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\aacf3982-52bb-41c6-b42e-3fc66011f8efproduct_0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\aacf3982-52bb-41c6-b42e-3fc66011f8efproduct_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\b4738ba8-e34c-4e6e-a44a-4647022c1a9bproduct_7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b4738ba8-e34c-4e6e-a44a-4647022c1a9bproduct_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\b8f1382d-aa0b-4c16-9cb4-f902cdbc58fdEkran görüntüsü 2024-07-04 052027.png",
+      "PackagePath": "staticwebassets\\images\\products\\b8f1382d-aa0b-4c16-9cb4-f902cdbc58fdEkran görüntüsü 2024-07-04 052027.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\bc9b5934-60a2-47b0-b44c-cd2e41d58cecimages.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\bc9b5934-60a2-47b0-b44c-cd2e41d58cecimages.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\c580cc59-428b-474b-8483-20878a4a0c99banner_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\c580cc59-428b-474b-8483-20878a4a0c99banner_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\c84531fe-7a28-44f3-8248-75f3b1683cc0product_0-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\c84531fe-7a28-44f3-8248-75f3b1683cc0product_0-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\cade4f35-1472-4002-a4e4-903b701c9004product_4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\cade4f35-1472-4002-a4e4-903b701c9004product_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\d51b46bd-5a00-4894-9500-cfba1f022c42product_7-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\d51b46bd-5a00-4894-9500-cfba1f022c42product_7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\e79164b7-4c89-48eb-9103-a44f9bb1671fproduct_0-6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\e79164b7-4c89-48eb-9103-a44f9bb1671fproduct_0-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\ee05cc1a-c1e9-40e1-8d17-5fb80a7488bfproduct_0-6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ee05cc1a-c1e9-40e1-8d17-5fb80a7488bfproduct_0-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\f01ab0c8-110c-4d82-b0f1-edca04035ba7Ekran görüntüsü 2024-07-04 051507.png",
+      "PackagePath": "staticwebassets\\images\\products\\f01ab0c8-110c-4d82-b0f1-edca04035ba7Ekran görüntüsü 2024-07-04 051507.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\f4bb7663-6f7c-437b-bc1e-34dc187afd51product_1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f4bb7663-6f7c-437b-bc1e-34dc187afd51product_1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\f6a4968d-dd07-4cfb-b67c-0baebd379b3aEkran görüntüsü 2024-07-04 051435.png",
+      "PackagePath": "staticwebassets\\images\\products\\f6a4968d-dd07-4cfb-b67c-0baebd379b3aEkran görüntüsü 2024-07-04 051435.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\fcb927e5-54d6-4408-8355-14612992b9f7a16dcc2d70520ea3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\fcb927e5-54d6-4408-8355-14612992b9f7a16dcc2d70520ea3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\fed9ffdd-43d8-41ab-8e2e-1ac832ff1629product_0-7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\fed9ffdd-43d8-41ab-8e2e-1ac832ff1629product_0-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\products\\ff828d3d-e707-44e0-8af4-10d0b6f539c5Ekran görüntüsü 2024-07-04 052112.png",
+      "PackagePath": "staticwebassets\\images\\products\\ff828d3d-e707-44e0-8af4-10d0b6f539c5Ekran görüntüsü 2024-07-04 052112.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\sliders\\3c240851-b0bb-462b-8167-83265a63d780lookbook-1.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\3c240851-b0bb-462b-8167-83265a63d780lookbook-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\sliders\\4aeb1408-0692-4c4c-a19a-eb7b1e9cf7c3slideshow-character2.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\4aeb1408-0692-4c4c-a19a-eb7b1e9cf7c3slideshow-character2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\sliders\\92703927-a0e7-4b7d-a5b2-b22e6c660bedslideshow-character1.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\92703927-a0e7-4b7d-a5b2-b22e6c660bedslideshow-character1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\sliders\\94b43425-9fba-4bc0-bf54-b5e27eb94c96blog-14.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\94b43425-9fba-4bc0-bf54-b5e27eb94c96blog-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\images\\sliders\\f44e7a7e-3cd6-447a-84a8-764adcd8864eslideshow-character2.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\f44e7a7e-3cd6-447a-84a8-764adcd8864eslideshow-character2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\js\\Brand.js",
+      "PackagePath": "staticwebassets\\js\\Brand.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\js\\plugins\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\js\\plugins\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\js\\plugins\\countdown.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\js\\plugins\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\js\\plugins\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\js\\plugins\\swiper.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\login-form-14\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\login-form-14\\css\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\login-form-14\\css\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\login-form-14\\css\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\css\\bootstrap\\mixins\\_transition.css",
+      "PackagePath": "staticwebassets\\login-form-14\\css\\bootstrap\\mixins\\_transition.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\login-form-14\\css\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\login-form-14\\css\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\css\\style.css",
+      "PackagePath": "staticwebassets\\login-form-14\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\images\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\login-form-14\\images\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\index.html",
+      "PackagePath": "staticwebassets\\login-form-14\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\login-form-14\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\login-form-14\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\js\\main.js",
+      "PackagePath": "staticwebassets\\login-form-14\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\js\\popper.js",
+      "PackagePath": "staticwebassets\\login-form-14\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\main.html",
+      "PackagePath": "staticwebassets\\login-form-14\\main.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\login-form-14\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\login-form-14\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineFashionStore-master\\OnlineFashionStore\\wwwroot\\navbar.js",
+      "PackagePath": "staticwebassets\\navbar.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OnlineFashionStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.OnlineFashionStore.props",
+      "PackagePath": "build\\OnlineFashionStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineFashionStore.props",
+      "PackagePath": "buildMultiTargeting\\OnlineFashionStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.OnlineFashionStore.props",
+      "PackagePath": "buildTransitive\\OnlineFashionStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

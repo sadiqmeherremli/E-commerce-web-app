@@ -1,0 +1,165 @@
+﻿@model CartViewModel
+<main id="mainContent">
+    <section class="shop-checkout container" id="cartContent">
+        <h2>Shopping Cart</h2>
+
+        @if (Model.CartItems.Count == 0)
+        {
+            <p>Your cart is empty.</p>
+        }
+        else
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Product</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                        <th>Total</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.CartItems)
+                    {
+                        <tr>
+                            <td>@item.ProductName</td>
+                            <td>@item.Price.ToString("C")</td>
+                            <td>
+                                <form asp-controller="Cart" asp-action="Increase" method="post">
+                                    <input type="hidden" name="id" value="@item.ProductId" />
+                                    <button type="submit" class="btn btn-sm btn-outline-primary">+</button>
+                                </form>
+                                @item.Quantity
+                                <form asp-controller="Cart" asp-action="Decrease" method="post">
+                                    <input type="hidden" name="id" value="@item.ProductId" />
+                                    <button type="submit" class="btn btn-sm btn-outline-primary">-</button>
+                                </form>
+                            </td>
+                            <td>@(item.Quantity * item.Price).ToString("C")</td>
+                            <td>
+                                <form asp-controller="Cart" asp-action="Remove" method="post">
+                                    <input type="hidden" name="id" value="@item.ProductId" />
+                                    <button type="submit" class="btn btn-sm btn-outline-danger">Remove</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3"><strong>Grand Total:</strong></td>
+                        <td>@Model.GrandTotal.ToString("C")</td>
+                        <td>
+                            <form asp-controller="Cart" asp-action="Clear" method="post">
+                                <button type="submit" class="btn btn-sm btn-outline-danger">Clear Cart</button>
+                            </form>
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+        }
+
+        @if (TempData["Success"] != null)
+        {
+            <div class="alert alert-success">@TempData["Success"]</div>
+        }
+
+        @if (TempData["Error"] != null)
+        {
+            <div class="alert alert-danger">@TempData["Error"]</div>
+        }
+        <div class="shopping-cart">
+            <div class="cart-table__wrapper">
+                @if (Model.CartItems.Count == 0)
+                {
+                    <h2>Your Cart is empty. <a asp-controller="Shop" asp-action="GetProducts" style="color:#b9a16b;">Go Shop!</a></h2>
+                }else
+                {
+                <table class="cart-table">
+                    <thead>
+                        <tr>
+                            <th>Product</th>
+                            <th></th>
+                            <th>Price</th>
+                            <th>Quantity</th>
+                            <th>Subtotal</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.CartItems)
+                        {
+                            <tr>
+                                <td>
+                                    <div class="shopping-cart__product-item">
+                                        <img loading="lazy" src="~/images/products/@item.ImageUrl" width="120" height="120" alt="" />
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="shopping-cart__product-item__detail">
+                                        <h4>@item.ProductName</h4>
+                                        <ul class="shopping-cart__product-item__options">
+                                            <li>Color: @item.Color</li>
+                                            <li>Size: @item.Size</li>
+                                        </ul>
+                                    </div>
+                                </td>
+                                <td>
+                                    <span class="shopping-cart__product-price">$@item.Price</span>
+                                </td>
+                                <td>
+                                    <div class="qty-control position-relative" >
+                                        <input type="number" name="quantity" value="@item.Quantity" min="1" class="qty-control__number text-center">
+                                        <div class="qty-control__reduce minus" data-product-id="@item.ProductId">-</div>
+                                        <div class="qty-control__increase plus" data-product-id="@item.ProductId">+</div>
+                                    </div><!-- .qty-control -->
+                                </td>
+                                <td>
+                                    <span class="shopping-cart__subtotal">$@item.Total</span>
+                                </td>
+                                <td>
+                                        <a href="#" class="remove-cart x-remove" data-product-id="@item.ProductId">
+                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="#767676" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0.259435 8.85506L9.11449 0L10 0.885506L1.14494 9.74056L0.259435 8.85506Z" />
+                                            <path d="M0.885506 0.0889838L9.74057 8.94404L8.85506 9.82955L0 0.97449L0.885506 0.0889838Z" />
+                                        </svg>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <div class="cart-table-footer">
+                        <form asp-controller="CheckOut" asp-action="CheckOut" method="post" class="position-relative bg-body">
+                        <input class="form-control" type="text" name="coupon_code" placeholder="Coupon Code">
+                        <input class="btn-link fw-medium position-absolute top-0 end-0 h-100 px-4" type="submit" value="APPLY COUPON">
+                    </form>
+                    <button class="btn btn-light clearCart">Clear Cart</button>
+                </div>
+                }
+            </div>
+            <div class="shopping-cart__totals-wrapper">
+                <div class="sticky-content">
+                    <div class="shopping-cart__totals">
+                        <h3>Cart Totals</h3>
+                        <table class="cart-totals">
+                            <tbody>
+                                <tr>
+                                    <th>Total</th>
+                                    <td>@Model.GrandTotal</td>
+                                </tr>
+                               
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="mobile_fixed-btn_wrapper">
+                        <div class="button-wrapper container">
+                            <a class="btn btn-primary btn-checkout" asp-controller="CheckOut" asp-action="Billing">PROCEED TO CHECKOUT</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
